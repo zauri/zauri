@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/zauri/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 <!--
 **zauri/zauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
